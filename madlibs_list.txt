@@ -1,8 +1,8 @@
-1. Friend's Name
-2. Adjective
-3. Adjective
-4. Color
-5. Month
+1. Siddharth
+2. Ephemeral
+3. Ethereal
+4. Blue
+5. August
 6. Number
 7. Noun (Plural)
 8. Noun (Plural)
@@ -13,9 +13,10 @@
 13. Marshmallowcrete
 14. Sleeping
 15. Overdramatically
-16. Number
-17. Unit of Time
-18. Different Activity
-19. Adjective
-20. Vehicle
-21. Your Name
+16. 9
+17. minutes
+18. bungee Jumping
+19. gigantic
+20. Ferrari
+21. Akanksha
+
