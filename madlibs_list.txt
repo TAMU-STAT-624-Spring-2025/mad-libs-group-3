@@ -3,11 +3,11 @@
 3. Ethereal
 4. Blue
 5. August
-6. Number
-7. Noun (Plural)
-8. Noun (Plural)
-9. Noun
-10. Room Name
+6. 9
+7. Birds
+8. Animals
+9. Pond
+10. Reveille
 11. Cola
 12. Flibbertigibbetty
 13. Marshmallowcrete
